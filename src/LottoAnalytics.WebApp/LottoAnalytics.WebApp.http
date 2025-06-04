@@ -1,6 +1,0 @@
-@LottoAnalytics.WebApp_HostAddress = http://localhost:5220
-
-GET {{LottoAnalytics.WebApp_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

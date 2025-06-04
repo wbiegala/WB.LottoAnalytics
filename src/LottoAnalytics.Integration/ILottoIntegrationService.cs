@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WB.LottoAnalytics.Integration.Clients
+namespace WB.LottoAnalytics.Integration
 {
     public interface ILottoIntegrationService
     {
